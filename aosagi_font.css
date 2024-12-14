@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('https://drive.google.com/uc?id=1oNytEEzf2o1ROOcunglD06vUJP45dEVy') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'MyCustomFont', sans-serif;
+}
